@@ -1,7 +1,7 @@
 # Tropical Cyclone Intensity Estimation
 
 <p align="center">
-  <img src="images/banner.png" width=700>
+  <img src="images/banner.png">
 </p>
 
 ## Table of Contents
