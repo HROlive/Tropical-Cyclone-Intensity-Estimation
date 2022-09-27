@@ -1,5 +1,8 @@
 # Tropical Cyclone Intensity Estimation
-![Course](images/banner.png)
+
+<p align="center">
+  <img src="images/banner.png" width=700>
+</p>
 
 ## Table of Contents
 1. [Description](#description)
