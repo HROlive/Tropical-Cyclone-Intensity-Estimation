@@ -15,7 +15,7 @@
 
 Tropical cyclone intensity estimation is a challenging task as it requires domain knowledge while extracting features, significant pre-processing, various sets of parameters obtained from satellites, and human intervention for analysis.
 
-The inconsistency of results, significant pre-processing of data, the complexity of the problem domain, and problems on generalizability are some of the issues related to intensity estimation. In this Jupyter Notebook, we run a deep convolutional neural network architecture for categorizing hurricanes based on intensity using graphics processing unit.
+The inconsistency of results, significant pre-processing of data, the complexity of the problem domain, and problems on generalizability are some of the issues related to intensity estimation. In this project, we implemented a solution for categorizing hurricanes based on intensity using a deep convolutional neural network architecture trained on GPUs.
 
 <a name="information"></a>
 ## Information
