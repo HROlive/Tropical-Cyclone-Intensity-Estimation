@@ -7,7 +7,7 @@
 ## Table of Contents
 1. [Description](#description)
 2. [Information](#information)
-3. [Contents](#contents)
+3. [File descriptions](#files)
 4. [Licensing](#licensing)
 
 <a name="descripton"></a>
@@ -31,8 +31,8 @@ The overall goals of this bootcamp were the following:
 
 Attendees were given access to a GPU cluster for the duration of the bootcamp.
 
-<a name="contents"></a>
-## Contents
+<a name="files"></a>
+## File descriptions
 
 The description of the contents in this repository can be found bellow:
 - [Introduction, Motivation for the Problem;](https://github.com/HROlive/Tropical-Cyclone-Intensity-Estimation/blob/1fd8e20fb211048dbf3935ea0ba2d9d56dd9e91e//The_Problem_Statement.ipynb)
