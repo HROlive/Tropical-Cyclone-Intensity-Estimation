@@ -34,7 +34,7 @@ Attendees were given access to a GPU cluster for the duration of the bootcamp.
 <a name="files"></a>
 ## File descriptions
 
-The description of the files in this repository can be found bellow:
+The description of the files in this repository can be found below:
 - [Introduction, Motivation for the Problem;](https://github.com/HROlive/Tropical-Cyclone-Intensity-Estimation/blob/1fd8e20fb211048dbf3935ea0ba2d9d56dd9e91e//The_Problem_Statement.ipynb)
 - [Approach the Problem, Understand and Pre-process the Dataset;](https://github.com/HROlive/Tropical-Cyclone-Intensity-Estimation/blob/1fd8e20fb211048dbf3935ea0ba2d9d56dd9e91e//Approach_to_the_Problem_&_Inspecting_and_Cleaning_the_Required_Data.ipynb)
 - [Understand the Model Requirements, Annotation of Dataset, Train your Model;](https://github.com/HROlive/Tropical-Cyclone-Intensity-Estimation/blob/1fd8e20fb211048dbf3935ea0ba2d9d56dd9e91e//Manipulation_of_Image_Data_and_Category_Determination_using_Text_Data.ipynb)
